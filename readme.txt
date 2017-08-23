@@ -1,5 +1,5 @@
-Creating a new branch is quick.
+锘緾reating a new branch is quick.
 Creating a new branch is quick and simple.
 test
-重新添加dev 禁用fast-forwad
-修改一个bug issue-1001
+閲嶆柊娣诲姞dev 绂佺敤fast-forwad
+Git is a free software 
