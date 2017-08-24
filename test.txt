@@ -2,4 +2,7 @@
 我是新人先是clone 了origin/master 然后通过git checkout -b xx origin/xx
 哈哈 我又来了
 我是从gitskill来的
+
 我是从gitskills 添加功能的
+
+我从testgitskill 添加功能
